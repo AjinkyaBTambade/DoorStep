@@ -1,0 +1,190 @@
+.carousel {
+  align-items: inherit;
+  width: 100%;
+  max-height: min-content;
+ 
+}
+
+.carousel-item, .carousel-item.active {
+  align-items:center;
+}
+
+.register{
+  /* background-image:url(https://c.pxhere.com/images/f9/8b/e5c5ab2eba372858336d3f75d8ff-1434233.jpg!d);  */
+  background-image:url(https://images.pexels.com/photos/3473569/pexels-photo-3473569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); 
+  
+  /* background-repeat: no-repeat;  */
+  background-size: cover; 
+  text-align: center;
+  color:white;
+ 
+}
+
+#h2{
+  /* style= {{color: 'lightcyan', fontStyle:'inherit',fontFamily:'-moz-initial'}} */
+  color:white;
+  font-size: x-large;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-weight: 700;
+  font-style: inherit;
+}
+
+.adminlogin{
+/*  style={{backgroundImage:'url(https://images.pexels.com/photos/4050296/pexels-photo-4050296.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)',backgroundRepeat: 'no-repeat , repeat', textAlign:'center', backgroundPosition: '100px 100px' , 
+    backgroundPosition:'center', paddingLeft:'100px', backgroundSize:'cover'}} */
+    background-image:url(https://images.pexels.com/photos/1072179/pexels-photo-1072179.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); 
+    background-position: center;
+    padding-left: 100px;
+    background-size: cover;
+  }
+
+  .customerlogin{
+    /* style={{backgroundImage:'url(https://wallup.net/wp-content/uploads/2015/12/56799-depth_of_field-landscape.jpg)',backgroundRepeat: 'no-repeat , repeat', textAlign:'center', backgroundPosition: '100px 100px' , 
+      backgroundPosition:'center', paddingLeft:'100px', backgroundSize:'cover'}} */
+        background-image:url(https://images.pexels.com/photos/4050296/pexels-photo-4050296.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); 
+        /* background-image:url(https://images.pexels.com/photos/4050334/pexels-photo-4050334.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); */
+        background-position: center;
+        padding-left: 100px;
+        background-size: cover;
+      }
+
+  .about{
+    /* background-image:url(https://images.pexels.com/photos/3586966/pexels-photo-3586966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);  */
+    /* background-image:url(https://images.pexels.com/photos/4050334/pexels-photo-4050334.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); */
+   /* height: 750; */
+    /* background-position: center; */
+    /* padding-left: 100px; */
+    /* background-size: cover; */
+    margin:0 ;
+    padding: 0%;
+    font-family: sans-serif;
+
+  }
+  .aboutus{
+
+    
+    padding: 0px 100px;
+    background: url(https://images.pexels.com/photos/313782/pexels-photo-313782.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    background-size: cover;
+    padding-left: 200px;
+    padding-top: 120px;
+
+  }
+
+  .box{
+   
+    
+    position: relative;
+    max-width: 500px;
+    max-height:200px;
+    padding: 30px;
+  
+   background: rgba(255,255,255,.2);
+   box-shadow: 0 5px 15px rgba(0,0,0,.5);
+   box-sizing:content-box;
+   
+  
+
+  }
+  .div2{
+    /* style={{textAlign: 'center',marginLeft: 440, padding: 125,}} */
+    text-align: center;
+    margin-left: 440;
+    padding: 125;
+
+  }
+  #label{
+    color:white;
+    font-size: larger;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 400;
+    font-style: inherit;
+  }
+
+  #labels{
+    color:lawngreen;
+    font-size: larger;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 400;
+    font-style: inherit;
+  }
+  
+  
+#h2s{
+  /* style= {{color: 'lightcyan', fontStyle:'inherit',fontFamily:'-moz-initial'}} */
+  padding: 40px 100px;
+  color:white;
+  font-size: xx-large;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-weight: 1000;
+
+}
+
+  .profile {
+    background-image:url(https://images.pexels.com/photos/3473569/pexels-photo-3473569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); 
+    /* background-image:url(https://images.pexels.com/photos/4050334/pexels-photo-4050334.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); */
+    background-position: center;
+    padding-left: 100px;
+    background-size: cover;
+    position: relative;
+
+  }
+  .newp{
+    /* style={{textAlign: 'center', marginLeft: 330, padding:125 ,
+      paddingBottom:130 , background:'rgba(255,255,255,.0)' , }} */
+
+      text-align: center;
+      margin-left:330 ;
+      padding:125 ;
+      padding-bottom: 130;
+      background: rgba(225,225,225,.0);
+  }
+
+  .history {
+    background-image:url(https://images.pexels.com/photos/3473569/pexels-photo-3473569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); 
+    /* background-image:url(https://images.pexels.com/photos/4050334/pexels-photo-4050334.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); */
+    background-position: center;
+    padding-left: 100px;
+    background-size: cover;
+   padding-bottom: 400px;
+
+   /* style={{ paddingTop:10, fontFamily: '-moz-initial' }} */
+   
+  }
+
+  .customerlist{
+    background-image:url(https://images.pexels.com/photos/1158394/pexels-photo-1158394.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); 
+    /* background-image:url(https://images.pexels.com/photos/4050334/pexels-photo-4050334.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); */
+    background-position: center;
+    padding-left: 100px;
+    background-size: cover;
+    padding-bottom: 400px;
+  }
+
+  #labelvendor{
+    color:white;
+    font-size: large;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 400;
+    font-style: inherit;
+  }
+
+  /* .cardcss{
+    /* style={{
+      width: '24rem',
+      marginLeft: 50,
+      marginRight: 900,
+      marginBottom: 45,
+      marginTop: 50,
+    }} */
+
+   
+  /* } */
+  
+/* .input{
+ width: 300;
+ margin-left: 90;
+} */
