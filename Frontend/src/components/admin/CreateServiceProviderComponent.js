@@ -102,12 +102,12 @@ class CreateServiceProviderComponent extends Component {
                 </div>
 
                 <div className="form-group">
-                    <label>contactNo:</label>
+                    <label>ContactNo:</label>
                     <input type="number" placeholder="contactNo" name="contactNo" className="form-control" value={this.state.contactNo} onChange={this.onChange}/>
                 </div>
 
                 <div className="form-group">
-                    <label>experience:</label>
+                    <label>Experience:</label>
                     <input type="number" placeholder="experience" name="experience" className="form-control" value={this.state.experience} onChange={this.onChange}/>
                 </div>
 

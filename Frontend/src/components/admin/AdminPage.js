@@ -42,7 +42,7 @@ class AdminPage extends react.Component {
             </CardTitle>
             <CardText style={{ fontFamily: 'cursive' }}>
               In this we can get all customer's data available and as per
-              requirement we cancan do some changes.
+              requirement we can do some changes.
             </CardText>
 
             <Button
@@ -78,8 +78,8 @@ class AdminPage extends react.Component {
               Service Provider
             </CardTitle>
             <CardText style={{ fontFamily: 'cursive' }}>
-              In this we can get all Vendor,s's data and as per requirement we
-              can do some changes in Vendor like add,update,delete etc.
+              In this we can get all Vendor's data and as per requirement 
+              we can do some changes in Vendor like add,update,delete etc.
             </CardText>
 
             <Button
